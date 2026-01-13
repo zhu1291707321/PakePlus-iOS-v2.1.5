@@ -1,0 +1,1 @@
+import{o as s,n as e,w as a,i as r,a as n}from"./index-634fa69d.js";import{_ as o}from"./_plugin-vue_export-helper.1b428a4d.js";const t=o({},[["render",function(o,t){const i=r;return s(),e(i,null,{default:a((()=>[n("div",{class:"desc"},"文件下载完成")])),_:1})}]]);export{t as default};
